@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .DS_Store
 .env
+git rm --cached regression/bulldozer-price-predicton/data/Train.csv
+git rm --cached regression/bulldozer-price-predicton/data/Train_tmp.csv
+git rm --cached regression/bulldozer-price-predicton/data/TrainAndValid.csv
